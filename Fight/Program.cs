@@ -1,7 +1,19 @@
-﻿Console.WriteLine("Hello, World!");
+﻿// PSEUDOKOD
+/*
+Ge båda 100hp
+Medan båda har hp kvar:
+  Skriv ut bådas hp
+  Dra av slumpad skada från hjältens hp
+  Dra av slumpad skada från skurkens hp
+  Vänta på spelarens enter-tryckning
+*/
 
-int damage = Random.Shared.Next(5, 10);
-Console.WriteLine(damage);
+
+// Console.WriteLine("Hello, World!");
+
+// int damage = Random.Shared.Next(5, 10);
+// Console.WriteLine(damage);
+
 
 
 // int hp = 100;
